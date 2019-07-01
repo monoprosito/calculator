@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+}
+
+button.calc-button {
+  width: 50px;
+  margin: 5px 2px;
+}
+
+button.equals-button {
+  width: 100px;
+  margin: 5px 2px;
+}
+
+textarea.results{
+  width: 400px;
+  height: 100px;
+  resize: none;
+}
